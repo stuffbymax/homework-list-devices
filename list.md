@@ -25,13 +25,15 @@
 ## Living Room
 - Samsung Smart TV Model 7
 - Grain 1GB Speed Fiber
-- Xbox One: Wired Connectivity
-- Xbox One Third-Party PowerA Controller: USB Connectivity
-- Turtle Beach Headphones: Jack Connectivity
 
 ## Room 3
 Aspire v5-571
 Samsung Galaxy A03
 
 ## Room 4
-_(No devices listed)_
+- Xbox One: Wired Connectivity
+- Xbox One Third-Party PowerA Controller: USB Connectivity
+- Turtle Beach Headphones: Jack Connectivity
+- Samsung Galaxy A52S WIFI CONECTIVITY
+- Smart LG 43URT8006LK: Wi-Fi Connected
+
