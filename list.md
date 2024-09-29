@@ -27,8 +27,9 @@
 - Grain 1GB Speed Fiber
 
 ## Room 3
-Aspire v5-571
-Samsung Galaxy A03
+- Aspire v5-571
+- Samsung Galaxy A03
+- blueethooth earboot
 
 ## Room 4
 - Xbox One: Wired Connectivity
