@@ -18,8 +18,8 @@
 - Xbox One Elite Controller: Proprietary Connectivity
 - Xbox One: Wi-Fi Connected
 - Philips GoGear SA060: No Connectivity
-- Toshiba Satellite L650
-- ASUSTeK X509MA 
+- Toshiba Satellite L650 wifi Conectivity
+- ASUSTeK X509MA wifi Conectivity
 
 ## Living Room
 - Samsung Smart TV Model 7
