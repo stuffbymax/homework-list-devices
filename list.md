@@ -29,7 +29,7 @@
 - Turtle Beach Headphones: Jack Connectivity
 
 ## Room 3
-_(No devices listed)_
+Aspire v5-571
 
 ## Room 4
 _(No devices listed)_
