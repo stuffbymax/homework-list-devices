@@ -20,6 +20,7 @@
 - Philips GoGear SA060: No Connectivity
 - Toshiba Satellite L650 wifi Conectivity
 - ASUSTeK X509MA wifi Conectivity
+- Samsung Galaxy A51
 
 ## Living Room
 - Samsung Smart TV Model 7
@@ -30,6 +31,7 @@
 
 ## Room 3
 Aspire v5-571
+Samsung Galaxy A03
 
 ## Room 4
 _(No devices listed)_
