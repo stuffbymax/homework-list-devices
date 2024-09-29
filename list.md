@@ -19,6 +19,7 @@
 - Xbox One: Wi-Fi Connected
 - Philips GoGear SA060: No Connectivity
 - Toshiba Satellite L650
+- ASUSTeK X509MA 
 
 ## Living Room
 - Samsung Smart TV Model 7
